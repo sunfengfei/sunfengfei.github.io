@@ -1,10 +1,9 @@
 ---
-layout: page
+layout: plain
 title: ""
 ---
 
-{: .section-title}
-## Working Papers
+# Working Papers
 
 {: .paper-item}
 ### Threshold Levels and Endowment Structures: Impacts on Cooperation in Public Goods Game
@@ -14,20 +13,21 @@ with Lorenz Goette (NUS), Lian Hongquan (SCNU), Huang Chunchun (CAU), and Zhou Y
 ### Why Peers Matter: How Friendship Network Affects Students' Academic Performance (2020)
 *Independent work*
 
-{: .section-title}
-## Work in Progress
+---
+
+# Work in Progress
 
 {: .paper-item}
-### Is GPT Overconfident?
+## Is GPT Overconfident?
 with Lorenz Goette (NUS), Wang Kailong (HUST), and Li Ningke (HUST)
 
 {: .paper-item}
-### AI-Enabled Personalized Feedback and Student Outcomes: A Randomized Experiment in Chinese High Schools
+## AI-Enabled Personalized Feedback and Student Outcomes: A Randomized Experiment in Chinese High Schools
 with Lorenz Goette (NUS)
 
-{: .section-title}
+---
 
-## Conference Presentations
+# Conference Presentations
 
 {: .conference-list}
 - China Behavioral and Experimental Economics Forum, Wuhan University (2023)
