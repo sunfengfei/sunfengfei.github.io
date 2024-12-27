@@ -136,3 +136,21 @@ strong {
     color: #666;
     margin-bottom: 1.5rem;
   }
+
+  .contact-info {
+    margin-top: 1rem;
+    
+    p {
+      margin-bottom: 0.5rem;
+      color: #444;
+    }
+    
+    a {
+      color: #8B0000;
+      text-decoration: none;
+      
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
