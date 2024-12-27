@@ -1,12 +1,9 @@
-<div class="row g-5 mb-5">
-  <div class="col-md-12">
-    <h3 class="fw-bold">Contact</h3>
-    <div class="contact-info">
-      {% for contact in site.data.settings.contacts %}
-        <p><strong>Email:</strong> <a href="mailto:{{ contact.email }}">{{ contact.email }}</a></p>
-        <p><strong>Address:</strong> {{ contact.address }}</p>
-        <p><strong>Phone:</strong> {{ contact.phone }}</p>
-      {% endfor %}
-    </div>
-  </div>
+<div class="contact-info">
+  {% for contact in site.data.settings.contacts %}
+    <p class="contact-item"><span class="contact-label">Email:</span> <a href="mailto:{{ contact.email }}">{{ contact.email }}</a></p>
+    <p class="contact-item"><span class="contact-label">Address:</span> {{ contact.address }}</p>
+    {% if contact.phone %}
+    <p class="contact-item"><span class="contact-label">Phone:</span> {{ contact.phone }}</p>
+    {% endif %}
+  {% endfor %}
 </div>

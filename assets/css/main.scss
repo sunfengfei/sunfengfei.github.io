@@ -1,49 +1,52 @@
 ---
 ---
-
 @import "main";
 
 /* 全局样式 */
 body {
-  background-color: #f8f9fa;
+  background-color: #fff;
   color: #333;
-  font-family: "EB Garamond", serif;
-  line-height: 1.8;
+  font-family: "Garamond", "EB Garamond", "Times New Roman", serif;
+  line-height: 1.6;
+  font-size: 16px;
 }
 
 /* 内容区域样式 */
 .col-md-6 p {
-  text-align: justify;  /* 两端对齐 */
-  font-size: 1.1rem;
-  margin-bottom: 1.5rem;
-  hyphens: auto;  /* 自动断字 */
+  text-align: left;
+  font-size: 1rem;
+  margin-bottom: 1.2rem;
+  line-height: 1.7;
+  color: #333;
 }
 
-/* 标题样式 - 模仿第二张图的风格 */
+/* 标题样式 */
 h1, .fs-4 {
-  font-size: 1.8rem !important;
+  font-size: 2rem !important;
   font-weight: normal !important;
-  color: #666;
-  letter-spacing: 0.5px;
-  text-transform: none;
+  color: #444;
+  letter-spacing: 0.02em;
+  margin-bottom: 1.5rem;
+  font-family: "Garamond", "EB Garamond", serif;
 }
 
-/* About me 标题样式 */
+/* About Me 标题样式 */
 h3.fw-bold, .about-me {
-  font-size: 1.4rem !important;
+  font-size: 1.75rem !important;
   font-weight: normal !important;
   color: #666;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  margin-bottom: 2rem;
+  letter-spacing: 0.02em;
+  margin-bottom: 1.5rem;
+  text-transform: none;
 }
 
 /* 导航链接样式 */
 .me-3.py-2.text-decoration-none {
   color: #666;
-  font-size: 0.9rem;
+  font-size: 1rem;
   text-transform: uppercase;
-  letter-spacing: 1px;
+  letter-spacing: 0.05em;
+  font-family: "Helvetica Neue", Arial, sans-serif;
   
   &:hover {
     color: #333;
@@ -51,106 +54,189 @@ h3.fw-bold, .about-me {
   }
 }
 
-/* 移除边框和调整间距 */
-.border-bottom {
-  border: none !important;
+/* 布局调整 */
+.col-lg-8 {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2rem 2.5rem;
 }
 
-header {
-  margin-bottom: 3rem !important;
+/* 正文内容样式 */
+p {
+  font-size: 1rem;
+  line-height: 1.7;
+  color: #333;
+  margin-bottom: 1.2rem;
 }
 
-/* 图片样式 */
-img {
-  border-radius: 4px;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-}
-
-/* CV链接样式 */
+/* 链接样式 */
 a {
   color: #8B0000;
   text-decoration: none;
+  transition: color 0.2s ease;
   
   &:hover {
+    color: #660000;
     text-decoration: underline;
   }
 }
 
-/* 调整布局和间距 */
-.col-lg-8 {
-  max-width: 1000px;
-  margin: 0 auto;
-  padding: 2rem 3rem;
+/* 研究领域样式 */
+.research-fields {
+  margin: 1.5rem 0;
+  
+  strong {
+    font-weight: normal;
+    color: #444;
+  }
 }
 
-.row.g-5 {
-  margin-top: 2rem !important;
+/* 委员会成员样式 */
+.committee {
+  margin: 1.5rem 0;
+  
+  p {
+    margin-bottom: 0.8rem;
+  }
 }
 
-/* Welcome! 样式 */
-strong {
-  font-weight: normal;
-  color: #333;
-}
-
-/* 更新提示样式 */
-.update-text {
+/* 联系信息样式 */
+.contact-heading {
+  font-size: 1.75rem !important;
+  font-weight: normal !important;
   color: #666;
-  font-size: 0.9rem;
-  margin-bottom: 1rem;
+  letter-spacing: 0.02em;
+  margin-bottom: 1.2rem;
 }
 
-.research-section {
-    margin-bottom: 2.5rem;
+.contact-info {
+  margin-top: 1rem;
+  
+  .contact-item {
+    margin-bottom: 0.5rem;
+    font-size: 1rem;
+    color: #333;
+    line-height: 1.6;
+  }
+  
+  .contact-label {
+    font-weight: normal;
+    color: #666;
+    display: inline-block;
+    width: 4rem;
+  }
+  
+  a {
+    color: #8B0000;
+    text-decoration: none;
+    
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+/* 导航栏样式 */
+header {
+  padding: 1.5rem 0;
+  margin-bottom: 2rem;
+  background-color: #fff;
+}
+
+/* 中文名称样式 */
+.chinese-name {
+  font-family: "Noto Serif SC", serif;
+  color: #666;
+  font-weight: normal;
+}
+
+/* 图片样式优化 */
+img {
+  border-radius: 0;
+  box-shadow: none;
+  max-width: 100%;
+  height: auto;
+}
+
+/* 移动端适配 */
+@media (max-width: 768px) {
+  body {
+    font-size: 15px;
+  }
+  
+  .col-lg-8 {
+    padding: 1.5rem;
+  }
+  
+  h1, .fs-4 {
+    font-size: 1.75rem !important;
+  }
+}
+
+/* 研究页面样式 */
+.section-title {
+    margin-top: 2.5rem;
+    margin-bottom: 2rem;
     
     h2 {
-      color: #444;
+      font-size: 1.75rem;
       font-weight: normal;
-      font-size: 1.5rem;
-      margin-bottom: 1.5rem;
-      border-bottom: 1px solid #eee;
+      color: #444;
       padding-bottom: 0.5rem;
+      border-bottom: 1px solid #eee;
     }
+  }
+  
+  .paper-item {
+    margin-bottom: 2rem;
+    padding-left: 1rem;
     
     h3 {
-      color: #666;
+      font-size: 1.1rem;
       font-weight: normal;
-      font-size: 1.2rem;
-      margin-bottom: 1rem;
-    }
-    
-    p {
-      text-align: justify;
-      margin-bottom: 1rem;
-    }
-  }
-  
-  .paper-title {
-    font-weight: 500;
-    color: #333;
-    margin-bottom: 0.5rem;
-  }
-  
-  .coauthors {
-    font-size: 0.9rem;
-    color: #666;
-    margin-bottom: 1.5rem;
-  }
-
-  .contact-info {
-    margin-top: 1rem;
-    
-    p {
+      color: #333;
       margin-bottom: 0.5rem;
-      color: #444;
+      line-height: 1.5;
     }
     
-    a {
-      color: #8B0000;
-      text-decoration: none;
+    p {
+      color: #666;
+      font-size: 1rem;
+      margin-bottom: 1rem;
+      line-height: 1.6;
+    }
+    
+    em {
+      color: #666;
+      font-style: italic;
+    }
+  }
+  
+  .conference-list {
+    padding-left: 1.5rem;
+    margin-bottom: 2.5rem;
+    
+    li {
+      margin-bottom: 1rem;
+      color: #333;
+      line-height: 1.6;
       
-      &:hover {
-        text-decoration: underline;
+      em {
+        display: block;
+        color: #8B0000;
+        font-style: italic;
+        margin-top: 0.25rem;
+        margin-left: 1.5rem;
       }
+    }
+  }
+  
+  /* 作者名称高亮 */
+  a {
+    color: #8B0000;
+    text-decoration: none;
+    
+    &:hover {
+      text-decoration: underline;
     }
   }
