@@ -1,19 +1,17 @@
 ---
 layout: home
-title: "SUN FENGFEI"
+title: "Welcome"
 ---
 
-Welcome! I am a Ph.D. student in the Department of Economics at National University of Singapore (NUS).
+Welcome! I am a Ph.D. student in the Department of Economics at [National University of Singapore](https://www.nus.edu.sg/) (NUS).
 
 My research lies at the intersection of behavioral and experimental economics, with a particular focus on human-AI interaction and public goods provision. I investigate cognitive biases in large language models and examine cooperative behavior through the lens of social preferences.
 
 **Research Fields:** Behavioral Economics; Experimental Economics; Human-AI Interaction
 
+**Supervisor:** [Prof. Lorenz Goette](https://fass.nus.edu.sg/ecs/people/lorenz-goette/) (NUS)
 
-**Supervisors:** Prof. [Lorenz Goette](https://fass.nus.edu.sg/ecs/people/lorenz-goette/), 
-
-
-Here is my [curriculum vitae]({{ site.github.url }}/assets/cv.pdf).
+For more information, please see my [curriculum vitae]({{ site.github.url }}/assets/cv.pdf).
 
 ---
 
@@ -26,7 +24,7 @@ Here is my [curriculum vitae]({{ site.github.url }}/assets/cv.pdf).
   </p>
   <p class="contact-item">
     <span class="contact-label">Address:</span>
-    Blk AS1, #01-01, 1 Arts Link, Singapore 117570.
+     Blk AS1, #01-01, 1 Arts Link, Singapore 117570.
   </p>
   <p class="contact-item">
     <span class="contact-label">Phone:</span>

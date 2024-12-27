@@ -174,7 +174,7 @@ header {
 /* 分隔线样式 */
 hr {
   margin: 2.5rem 0;
-  border: 0;
+  border: 1;
   border-top: 1px solid #eee;
 }
 
@@ -198,5 +198,47 @@ img {
   
   h1, .fs-4 {
     font-size: 1.75rem !important;
+  }
+}
+
+/* 基础链接样式 */
+a {
+  color: #00527A;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  transition: color 0.2s ease;
+  
+  &:hover {
+    color: #006699;
+  }
+}
+
+/* 导航栏链接样式 */
+header a, .me-3.py-2.text-decoration-none {
+  color: #444;
+  text-decoration: none;
+  
+  &:hover {
+    color: #00527A;
+  }
+}
+
+/* 站点标题链接 */
+.site-title a {
+  text-decoration: none;
+  color: #444;
+  
+  &:hover {
+    color: #00527A;
+    text-decoration: none;
+  }
+}
+
+/* 标题中的链接 */
+h1 a, h2 a, h3 a {
+  text-decoration: none;
+  
+  &:hover {
+    text-decoration: none;
   }
 }
