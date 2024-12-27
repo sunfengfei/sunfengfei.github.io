@@ -1,6 +1,6 @@
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
-title: "SUN Fengfei" # the name of your site, e.g. ACME Corp.
+title: "SUN Fengfei (孙凤飞)" 
 description: ""
 header_title: "SUN Fengfei"  # 添加这行
 theme_settings:
