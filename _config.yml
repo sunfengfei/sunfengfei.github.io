@@ -1,4 +1,4 @@
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://sunfengfei.github.io"
 baseurl: "" # the subpath of your site, e.g. /blog
-title: "SUN Fengfei (孙凤飞)" 
+title: "SUN FENGFEI (孙凤飞)" 
 description: ""
