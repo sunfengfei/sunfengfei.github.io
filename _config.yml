@@ -1,4 +1,7 @@
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
-title: "academic" # the name of your site, e.g. ACME Corp.
-description: "a Jekyll theme for academia"
+title: "SUN Fengfei" # the name of your site, e.g. ACME Corp.
+description: ""
+header_title: "SUN Fengfei"  # 添加这行
+theme_settings:
+  title: "SUN Fengfei"  # 添加这行
