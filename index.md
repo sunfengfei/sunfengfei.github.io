@@ -3,6 +3,6 @@ layout: home
 title: "Home"
 ---
 
-This theme allows an academic person to showcase their research interests, publications, research group, curriculum vitae, any courses that they may be teaching, or anything else they may want to put out into the world.
+Welcome! I am Fengfei Sun, a Ph.D. student in the Department of Economics at National University of Singapore (NUS). My research lies at the intersection of behavioral and experimental economics, with a particular focus on human-AI interaction and public goods provision. Specifically, I investigate how cognitive biases manifest in large language models and examine cooperative behavior in public goods games through the lens of social preferences. 
 
-Academics can use this home page to describe their research interests, display their latest publications, or provide an introduction to their research group.
+Currently, I am working on projects that explore GPT models' potential overconfidence and evaluate the impact of AI-enabled personalized feedback on student outcomes.
