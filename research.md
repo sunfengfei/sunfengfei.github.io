@@ -18,11 +18,11 @@ with Lorenz Goette (NUS), Lian Hongquan (SCNU), Huang Chunchun (CAU), and Zhou Y
 # Work in Progress
 
 {: .paper-item}
-## Is GPT Overconfident?
+#### Is GPT Overconfident?
 with Lorenz Goette (NUS), Wang Kailong (HUST), and Li Ningke (HUST)
 
 {: .paper-item}
-## AI-Enabled Personalized Feedback and Student Outcomes: A Randomized Experiment in Chinese High Schools
+#### AI-Enabled Personalized Feedback and Student Outcomes: A Randomized Experiment in Chinese High Schools
 with Lorenz Goette (NUS)
 
 ---
