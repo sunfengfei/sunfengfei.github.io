@@ -1,9 +1,21 @@
-<div class="contact-info">
-  {% for contact in site.data.settings.contacts %}
-    <p class="contact-item"><span class="contact-label">Email:</span> <a href="mailto:{{ contact.email }}">{{ contact.email }}</a></p>
-    <p class="contact-item"><span class="contact-label">Address:</span> {{ contact.address }}</p>
-    {% if contact.phone %}
-    <p class="contact-item"><span class="contact-label">Phone:</span> {{ contact.phone }}</p>
-    {% endif %}
-  {% endfor %}
+<div class="row g-5">
+  <div class="col-md-12">
+    <h3 class="contact-heading">Contact</h3>
+    <div class="contact-info">
+      {% for contact in site.data.settings.contacts %}
+        <p class="contact-item">
+          <span class="contact-label">Email:</span> 
+          <a href="mailto:{{ contact.email }}">{{ contact.email }}</a>
+        </p>
+        <p class="contact-item">
+          <span class="contact-label">Address:</span> 
+          {{ contact.address }}
+        </p>
+        <p class="contact-item">
+          <span class="contact-label">Phone:</span> 
+          {{ contact.phone }}
+        </p>
+      {% endfor %}
+    </div>
+  </div>
 </div>
