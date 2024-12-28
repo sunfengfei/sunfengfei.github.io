@@ -3,15 +3,15 @@ layout: home
 title: "Welcome"
 ---
 
-Welcome! I am a Ph.D. student in the Department of Economics at [National University of Singapore](https://www.nus.edu.sg/) (NUS).
+Welcome! I am a Ph.D. student in Economics at [National University of Singapore](https://www.nus.edu.sg/) (NUS).
 
-My research lies at the intersection of behavioral and experimental economics, with a particular focus on human-AI interaction and public goods provision. I investigate cognitive biases in large language models and examine cooperative behavior through the lens of social preferences.
+My research lies at the intersection of behavioral and experimental economics, with a particular focus on human-AI interaction and public goods provision. For more information, please see my [curriculum vitae]({{ site.github.url }}/assets/cv.pdf).
 
-**Research Fields:** Behavioral Economics; Experimental Economics; Human-AI Interaction
+<!-- **Research Fields:** Behavioral Economics; Experimental Economics; Human-AI Interaction -->
 
 **Supervisor:** [Prof. Lorenz Goette](https://fass.nus.edu.sg/ecs/people/lorenz-goette/) (NUS)
 
-For more information, please see my [curriculum vitae]({{ site.github.url }}/assets/cv.pdf).
+
 
 ---
 
