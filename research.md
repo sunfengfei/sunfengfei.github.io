@@ -6,20 +6,17 @@ title: ""
 # Working Papers
 
 {: .paper-item}
-#### Threshold Levels and Endowment Structures: Impacts on Cooperation in Public Goods Game
-with Lorenz Goette (NUS), Lian Hongquan (SCNU), Huang Chunchun (CAU), and Zhou Ye'an (RUC)
+#### Large Language Models are overconfident and amplify human bias
+with Lorenz Goette (NUS), Wang Kailong (HUST), and Li Ningke (HUST)
+[arXiv](https://arxiv.org/abs/2505.02151)
 
 {: .paper-item}
-#### Why Peers Matter: How Friendship Network Affects Students' Academic Performance (2020)
-*Independent work*
+#### Threshold Levels and Endowment Structures: Impacts on Cooperation in Public Goods Game
+with Lian Hongquan (SCNU), Huang Chunchun (CAU), and Zhou Ye'an (RUC)
 
 ---
 
 # Work in Progress
-
-{: .paper-item}
-#### Is GPT Overconfident?
-with Lorenz Goette (NUS), Wang Kailong (HUST), and Li Ningke (HUST)
 
 {: .paper-item}
 #### AI-Enabled Personalized Feedback and Student Outcomes: A Randomized Experiment in Chinese High Schools
