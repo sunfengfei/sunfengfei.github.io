@@ -11,4 +11,4 @@ title: "Projects"
 An interactive experimental economics platform built with oTree framework for studying market behavior and trading dynamics. 
 
 {: .project-status}
-*Current Status: In active development*
+*Current Status: Finished*
