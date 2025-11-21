@@ -138,7 +138,7 @@ header {
 /* 研究页面样式 */
 .paper-item {
   margin-bottom: 2.5rem;
-  
+
   h2 {
     font-size: 1.2rem;
     font-weight: normal;
@@ -146,11 +146,58 @@ header {
     margin-bottom: 0.8rem;
     line-height: 1.5;
   }
-  
+
   p {
     color: #666;
     margin-bottom: 0.8rem;
     letter-spacing: 0.01em;
+  }
+}
+
+/* Research page specific styles */
+main > h2 {
+  font-size: 1.4rem !important;
+  font-weight: 600;
+  color: #333;
+  margin-top: 2.5rem;
+  margin-bottom: 1.2rem;
+  border-bottom: 1px solid #e0e0e0;
+  padding-bottom: 0.5rem;
+}
+
+main > p strong {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: #2c3e50;
+  line-height: 1.6;
+  display: block;
+  margin-bottom: 0.4rem;
+}
+
+main > p {
+  font-size: 1rem;
+  line-height: 1.7;
+  color: #555;
+  margin-bottom: 1.8rem;
+}
+
+main > ul {
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+
+  li {
+    font-size: 1rem;
+    line-height: 1.7;
+    color: #555;
+    margin-bottom: 0.8rem;
+
+    em {
+      display: block;
+      margin-top: 0.2rem;
+      margin-left: 1.2rem;
+      font-size: 0.95rem;
+      color: #777;
+    }
   }
 }
 
@@ -203,13 +250,14 @@ img {
 
 /* 基础链接样式 */
 a {
-  color: #00527A;
-  text-decoration: underline;
-  text-underline-offset: 2px;
-  transition: color 0.2s ease;
-  
+  color: #2962A3;
+  text-decoration: none;
+  transition: all 0.2s ease;
+  border-bottom: 1px solid rgba(41, 98, 163, 0.2);
+
   &:hover {
-    color: #006699;
+    color: #1a4d82;
+    border-bottom-color: rgba(26, 77, 130, 0.5);
   }
 }
 
@@ -217,9 +265,10 @@ a {
 header a, .me-3.py-2.text-decoration-none {
   color: #444;
   text-decoration: none;
-  
+  border-bottom: none;
+
   &:hover {
-    color: #00527A;
+    color: #2962A3;
   }
 }
 
@@ -227,18 +276,22 @@ header a, .me-3.py-2.text-decoration-none {
 .site-title a {
   text-decoration: none;
   color: #444;
-  
+  border-bottom: none;
+
   &:hover {
-    color: #00527A;
+    color: #2962A3;
     text-decoration: none;
   }
 }
 
 /* 标题中的链接 */
-h1 a, h2 a, h3 a {
+h1 a, h2 a, h3 a, h4 a {
   text-decoration: none;
-  
+  border-bottom: none;
+  color: #333;
+
   &:hover {
     text-decoration: none;
+    color: #2962A3;
   }
 }
