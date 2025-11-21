@@ -18,6 +18,7 @@ title: "Experience"
 
 ## Selected Honors
 
+- Excellent Graduate Thesis of Graduation Design, Beijing (1/60)
 - Excellent Undergraduate Thesis of Graduation Design, Beijing (Top 0.1%)
 - Distinguished Undergraduate, RUC (Top 4%)
 - First-Class Academic Excellence Scholarship (Top 2%)

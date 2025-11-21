@@ -20,6 +20,7 @@ with Yan Wei (RUC), Yin Xunjian (DKU), Peng Kaiping (THU), and Lorenz Goette (NU
 
 **Understanding Effects of Decision Recommendation: Evidence from Large Language Models**
 with Wang Ao (NUS)
+
 <br>
 
 ## Conference Presentations
