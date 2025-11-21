@@ -11,7 +11,7 @@ with [Lorenz Goette](https://fass.nus.edu.sg/ecs/people/lorenz-goette/) (NUS), [
 **When the Wealthy Step Up: Endowment Heterogeneity and Thresholds in Public Goods**
 with [Lian Hongquan](https://faculty.scnu.edu.cn/hqlianscnu/en) (SCNU), [Huang Chunchun](https://cem.cau.edu.cn/art/2020/3/24/art_34875_153.html) (CAU), and [Zhou Ye'an](http://econ.ruc.edu.cn/szdw/jsml/ayjspx/jjxxfjjxjys/zya/index.htm) (RUC)
 
-<br>
+---
 
 ## Work in Progress (selected)
 
@@ -21,7 +21,7 @@ with Yan Wei (RUC), Yin Xunjian (DKU), Peng Kaiping (THU), and Lorenz Goette (NU
 **Understanding Effects of Decision Recommendation: Evidence from Large Language Models**
 with Wang Ao (NUS)
 
-<br>
+---
 
 ## Conference Presentations
 

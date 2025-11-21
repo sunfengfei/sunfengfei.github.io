@@ -201,6 +201,13 @@ main > ul {
   }
 }
 
+/* Horizontal rule styling for consistent section separation */
+main > hr {
+  margin: 2.5rem 0;
+  border: 0;
+  border-top: 1px solid #e0e0e0;
+}
+
 /* 项目页面样式 */
 .project-section {
   margin-bottom: 3rem;
