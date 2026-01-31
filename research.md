@@ -15,16 +15,17 @@ with [Lian Hongquan](https://faculty.scnu.edu.cn/hqlianscnu/en) (SCNU), [Huang C
 
 ## Work in Progress (selected)
 
-**Can AI Feedback Systems Narrow Educational Gaps? An Experimental Study on Academic Performance and Educational Equity**
-with Yan Wei (RUC), Yin Xunjian (DKU), Peng Kaiping (THU), and Lorenz Goette (NUS)
-
 **Understanding Effects of Decision Recommendation: Evidence from Large Language Models**
 with Wang Ao (NUS)
+
+**Can AI Feedback Systems Narrow Educational Gaps? An Experimental Study on Academic Performance and Educational Equity**
+with Yan Wei (RUC), Yin Xunjian (DKU), Peng Kaiping (THU), and Lorenz Goette (NUS)
 
 ---
 
 ## Conference Presentations
-
+- Annual Conference of the National Game Theory and Experimental Economics Research Association, Shandong
+University (2025)
 - ESA World Meeting (2025)
 - China Behavioral and Experimental Economics Forum, Wuhan University (2023)
 - Asia-Pacific ESA Meeting, Seoul, Republic of Korea (2023)
