@@ -18,12 +18,13 @@ with [Lian Hongquan](https://faculty.scnu.edu.cn/hqlianscnu/en) (SCNU), [Huang C
 **Understanding Effects of Decision Recommendation: Evidence from Large Language Models**
 with Wang Ao (NUS)
 
-**Can AI Feedback Systems Narrow Educational Gaps? An Experimental Study on Academic Performance and Educational Equity**
+**AI-Enabled Personalized Feedback and Student Outcomes: A Field Experiment**
 with Yan Wei (RUC), Yin Xunjian (DKU), Peng Kaiping (THU), and Lorenz Goette (NUS)
 
 ---
 
 ## Conference Presentations
+- Fourth Wuhan Cherry Blossom Workshop on Experimental Economics, Wuhan University (2026)
 - Annual Conference of the National Game Theory and Experimental Economics Research Association, Shandong
 University (2025)
 - ESA World Meeting (2025)
