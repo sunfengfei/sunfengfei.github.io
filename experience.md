@@ -5,7 +5,7 @@ title: ""
 
 ## Leadership & Service
 
-- **[NUS APEX (Applied Economics PhD EXchange)](https://sites.google.com/view/nusapex/home)**  
+- **[NUS APEX (NUS APplied Economics eXplorations](https://sites.google.com/view/nusapex/home)**  
   Co-organizer. A platform for PhDs and junior scholars to present and discuss works at all stages. This workshop series have hosted 56+ seminar sessions since 2022, including external speakers from universities in North America, Europe, and Asia.
 
 - **Multi-Universities Online Biweekly Seminar**  
