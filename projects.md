@@ -8,7 +8,7 @@ title: ""
 
 [More information]({{ site.github.url }}/projects/market-trading){: .read-more}
 
-An interactive experimental economics platform built with oTree framework for studying market behavior and trading dynamics. 
+An oTree-based experimental economics platform for conducting multi-round trading experiments with heterogeneous utility functions.
 
 {: .project-status}
 *Current Status: Finished*
