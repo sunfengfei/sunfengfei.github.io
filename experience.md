@@ -10,7 +10,6 @@ title: ""
 
 If you are interested in presenting or attending, please find more information on our [website](https://sites.google.com/view/nusapex/home).
 
-
 - **Multi-Universities Online Biweekly Seminar**  
   Co-organized 50+ seminars with 60+ participants from 10+ universities
 
