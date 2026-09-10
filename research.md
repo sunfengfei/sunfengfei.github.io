@@ -23,11 +23,13 @@ with Yan Wei (RUC), Yin Xunjian (DKU), Peng Kaiping (THU), and Lorenz Goette (NU
 
 ---
 
-## Conference Presentations
+## Conference Presentations or Summer Schools
+- [The Chicago School in Experimental Economics (CSEE)](https://voices.uchicago.edu/jlist/the-chicago-school-in-experimental-economics-2026/), Osaka, Japan (2026)
+- Asia-Pacific Meetings of the Economic Science Association, Melbourne, Australia (2026)
 - Fourth Wuhan Cherry Blossom Workshop on Experimental Economics, Wuhan University (2026)
 - Annual Conference of the National Game Theory and Experimental Economics Research Association, Shandong
 University (2025)
-- ESA World Meeting (2025)
+- ESA World Meeting, Beijing, China (2025)
 - China Behavioral and Experimental Economics Forum, Wuhan University (2023)
 - Asia-Pacific ESA Meeting, Seoul, Republic of Korea (2023)
 - Fifth Prospective Economists Forum (PEF), Central University of Finance and Economics & China Economics Annual Conference & Young Economist Society (2022)

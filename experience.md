@@ -8,6 +8,9 @@ title: ""
 - **[NUS APEX (NUS APplied Economics eXplorations](https://sites.google.com/view/nusapex/home)**  
   Co-organizer. A platform for PhDs and junior scholars to present and discuss works at all stages. This workshop series have hosted 56+ seminar sessions since 2022, including external speakers from universities in North America, Europe, and Asia.
 
+If you are interested in presenting or attending, please find more information on our [website](https://sites.google.com/view/nusapex/home).
+
+
 - **Multi-Universities Online Biweekly Seminar**  
   Co-organized 50+ seminars with 60+ participants from 10+ universities
 
